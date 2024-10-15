@@ -3,5 +3,5 @@
 <h4> Previsão de termino: dezembro de 2025</h4>
 <br>
 <h5> Olá, visitante! Seja bem-vindo(a) </h5>
-<h5> Confira um pouco do meu portfólio, espqero que goste...</h5>
+<h5> Confira um pouco do meu portfólio, espero que goste...</h5>
 
