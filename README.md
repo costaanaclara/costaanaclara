@@ -10,7 +10,7 @@
 
 ##
 <div>
-  <a href=""https//mailto:anaclara.santoscosta2409@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+  <a href="mailto:anaclara.santoscosta2409@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" > </a>
   <a href="https://www.linkedin.com/in/anaclarasantoscosta"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/anaclara.ahh/?igsh=MnRvcGM1MWEzN2Qw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                     
 </div>
