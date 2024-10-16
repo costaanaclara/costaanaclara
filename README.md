@@ -5,3 +5,6 @@
 <h5> Olá, visitante! Seja bem-vindo(a) </h5>
 <h5> Confira um pouco do meu portfólio, espero que goste...</h5>
 
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costaanaclara&theme=shadow_green&show_icons=true)
+
