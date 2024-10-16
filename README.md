@@ -6,5 +6,8 @@
 <h5> Confira um pouco do meu portfólio, espero que goste...</h5>
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costaanaclara&theme=shadow_green&show_icons=true)
-
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=costaanaclara&theme=shadow_green&show_icons=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaanaclara&theme=shadow_green&layout=compact"/>
+</div>
+##
