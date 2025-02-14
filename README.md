@@ -1,6 +1,5 @@
 <h1> Ana Clara Santos </h1> 
-<h3> Futura Técnica em Desenvolvimento de Sistemas - SENAI </h3>
-<h4> Previsão de termino: dezembro de 2025</h4>
+<h3> Técnica em Desenvolvimento de Sistemas - SENAI </h3>
 
 ##
 <div>
